@@ -1,5 +1,5 @@
 # AdMob App
-Swift 4 ve Objective - C ile geliştirilen bir iOS projesidir. <br>
+Swift-4.2 ve Objective - C ile geliştirilen bir iOS projesidir. <br>
 Projede AdMob kullanımından bahsedilmektedir. <br>
 Uygulamada Banner ve Interstitial reklam türleri ile ilgili örnekler yapılmaktadır. <br>
 Cocopods kullanılarak projeye ait reklamların eklenmesine katkıda bulunulmuştur.  <br>
